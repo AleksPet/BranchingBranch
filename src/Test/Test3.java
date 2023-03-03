@@ -2,8 +2,7 @@ package Test;
 
 public class Test3 {
 
-
-   //hot fix of the failed tests
-
-    // hor fix 2
+    public static void main(String[] args) {
+        System.out.println("pull/push");
+    }
 }
